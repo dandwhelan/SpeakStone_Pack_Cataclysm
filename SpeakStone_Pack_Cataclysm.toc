@@ -5,7 +5,7 @@
 ## Author: Nerf, SpeakStone@beanw.co.uk
 ## X-Wago-ID: L6J94YNv
 ## X-Curse-Project-ID: 1693137
-## Version: 1.5.2
+## Version: 1.5.3
 
 ## RequiredDeps: SpeakStone_Main
 
